@@ -2,20 +2,22 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: ChipMasterVN
 logo:
-author: themefisher
-description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+author: chipmastervn
+description: Unleash the potential of Silicon
+email: chipmastervn@gmail.com
+phone: +84869902096
+address: Dong Anh District, Hanoi, Vietnam
+copyright: Copyright &copy; 2023 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
-  - { name: About, link: "/about" }
-  - { name: Blog, link: "/blog" }
-  - { name: Portfolio, link: "/portfolio" }
-  - { name: Contact, link: "/contact" }
+  - { name: VỀ CHÚNG TÔI, link: "/about" }
+  - { name: KHÓA HỌC, link: "/blog" }
+  - { name: DỊCH VỤ, link: "/portfolio" }
+  # - { name: TÀI LIỆU, link: "/portfolio" }
+  # - { name: TIN TỨC, link: "/portfolio" }
+  - { name: LIÊN HỆ, link: "/contact" }
 
 #-------------------------------
 # Google Analytics Section

@@ -13,10 +13,11 @@ copyright: Copyright &copy; 2023 Designed by [Themefisher](https://themefisher.c
 
 menu:
   - { name: VỀ CHÚNG TÔI, link: "/about" }
-  - { name: KHÓA HỌC, link: "/blog" }
-  - { name: DỊCH VỤ, link: "/portfolio" }
-  # - { name: TÀI LIỆU, link: "/portfolio" }
-  # - { name: TIN TỨC, link: "/portfolio" }
+  - { name: KHÓA HỌC, link: "/courses" }
+  - { name: TÀI LIỆU, link: "/documents" }
+  - { name: DỊCH VỤ, link: "/services" }
+  - { name: BLOG, link: "/blog" }
+  - { name: TIN TỨC, link: "/news" }
   - { name: LIÊN HỆ, link: "/contact" }
 
 #-------------------------------

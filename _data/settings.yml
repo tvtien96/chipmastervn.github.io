@@ -99,49 +99,55 @@ skills:
 #-------------------------------
 # Exprerience Section
 
-experience-title: Experience
+experience-title: Đào tạo
 experience:
   - {
-      name: Junior UX Designer,
+      name: Thiết kế và phân tích hệ thống Nhúng,
       icon: "icon-1.png",
-      date: "Jan 2007 - Feb 2009",
-      organization: "WEBEX",
+      # date: "Jan 2007 - Feb 2009",
+      # organization: "WEBEX",
     }
   - {
-      name: UX & UI Designer,
+      name: Thiết kế vi mạch,
       icon: "icon-2.png",
-      date: "Mar 2009 - Aug 2014",
-      organization: "AUGMEDIX",
+      # date: "Mar 2009 - Aug 2014",
+      # organization: "AUGMEDIX",
     }
   - {
-      name: Senior UI Designer,
+      name: Thiết kế hệ thống IoT & AI,
       icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
+      # date: "Sep 2014 - Present",
+      # organization: "THEMEFISHER",
+    }
+  - {
+      name: Lập trình FPGA,
+      icon: "icon-1.png",
+      # date: "Sep 2014 - Present",
+      # organization: "THEMEFISHER",
     }
 
 #-------------------------------
 # Education Section
 
-education-title: Đào tạo
+education-title: Vì sao nên chọn chúng tôi
 education:
   - {
-      name: Thiết kế và phân tích hệ thống Nhúng,
+      name: Hình thức học tập linh hoạt - tiết kiệm chi phí,
       # date: "2006",
       # organization: "Masassusets Institute of Technology",
     }
   - {
-      name: Thiết kế vi mạch,
+      name: Hệ thống giáo trình chuẩn quốc tế - tài liệu trực tuyến - mã nguồn phong phú cập nhật mới nhất,
       # date: "2004",
       # organization: "Harvard University",
     }
   - {
-      name: Lập trình FPGA,
+      name: Đội ngũ giảng viên giỏi - giàu kinh nghiệm,
       # date: "2000",
       # organization: "Cardiff School",
     }
   - {
-      name: Thiết kế hệ thống IoT & AI,
+      name: Cung cấp giải pháp nhanh - hiệu quả - chi phí hợp lý,
       # date: "1998",
       # organization: "Cardiff School",
     }

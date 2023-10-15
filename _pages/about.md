@@ -1,7 +1,7 @@
 ---
 layout: about
-title: About Me
-author: Johnathan Smith
+title: Về Chúng Tôi
+author: ChipMaster Việt Nam
 image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 ---

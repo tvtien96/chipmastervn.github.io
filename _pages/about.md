@@ -17,3 +17,9 @@ Không chỉ giới hạn trong lĩnh vực thiết kế cơ sở, khóa học c
 Khóa học của chúng tôi cũng cung cấp cho bạn cơ hội thực hành thông qua các dự án thực tế. Bạn sẽ được tham gia vào việc xây dựng, mô phỏng và kiểm tra các mạch vi mạch thực tế, từ vi mạch đơn giản đến vi mạch phức tạp. Điều này giúp bạn áp dụng kiến thức đã học vào thực tế và trang bị cho bạn kỹ năng thực tế và kinh nghiệm trong lĩnh vực này.
 
 Nếu bạn đam mê thiết kế vi mạch và muốn tham gia vào quá trình phát triển công nghệ tiên tiến, ChipMaster Việt Nam là sự lựa chọn lý tưởng. Hãy tham gia ngay để khám phá thế giới thú vị của thiết kế vi mạch và mở ra cơ hội mới trong sự phát triển cá nhân và sự nghiệp của bạn!
+
+***
+Mọi thắc mắc và góp ý xin liên hệ với chúng tôi tại:
+* Zalo: 0869902096
+* Email: chipmastervn@gmail.com
+* Fanpage: [ChipMaster Việt Nam](https://www.facebook.com/people/ChipMaster-Vi%E1%BB%87t-Nam/61552506868619/)

@@ -1,20 +1,20 @@
-{% if site.data.settings.portfolio-home-items %}
-<!-- portfolio -->
+{% if site.data.settings.documents-home-items %}
+<!-- documents -->
 <section class="section">
   <div class="container">
     <div class="row">
       <div class="col-12 text-center">
-        <h2 class="section-title">Portfolio</h2>
+        <h2 class="section-title">Tài liệu tham khảo</h2>
       </div>
     </div>
     <div class="row shuffle-wrapper">
-      {% for item in site.data.settings.portfolio-home-items %}
+      {% for item in site.data.settings.documents-home-items %}
       <div class="col-lg-4 col-6 mb-4 shuffle-item">
         <div class="position-relative rounded hover-wrapper">
-          <img src="{{ site.baseurl }}/{{ item.image }}" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
+          <img src="{{ site.baseurl }}/{{ item.image }}" alt="documents-image" class="img-fluid rounded w-100 d-block">
           <div class="hover-overlay">
             <div class="hover-content">
-              <a class="btn btn-light btn-sm" href="{{ item.url }}">view project</a>
+              <a class="btn btn-light btn-sm" href="{{ item.url }}">Xem thêm</a>
             </div>
           </div>
         </div>
@@ -23,5 +23,5 @@
     </div>
   </div>
 </section>
-<!-- /portfolio -->
+<!-- /documents -->
 {% endif %}

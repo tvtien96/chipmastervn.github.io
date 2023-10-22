@@ -177,10 +177,10 @@ services:
     }
 
 #-------------------------------
-# Portfolio (Section and Page)
+# Documents (Section and Page)
 
-# Portfolio Home Section
-portfolio-home-items:
+# Documents Home Section
+documents-home-items:
   - image: "assets/images/portfolio/item-1.png"
     url: "#"
 
@@ -196,60 +196,116 @@ portfolio-home-items:
   - image: "assets/images/portfolio/item-5.png"
     url: "#"
 
-# Portfolio Page
-portfolio-label:
-  - { title: "UI/UX Design", type: "design" }
-  - { title: "BRANDING", type: "branding" }
-  - { title: "ILLUSTRATION", type: "illustration" }
+# Documents Page
+documents-label:
+  - { title: "Tài liệu miễn phí", type: "design" }
+  - { title: "Review Sách", type: "branding" }
+  - { title: "Đang nghĩ", type: "illustration" }
 
-portfolio-items:
+documents-items:
   - image: "assets/images/portfolio/item-1.png"
     url: "#"
-    portfolio-type:
+    documents-type:
       - type: "design"
       - type: "illustration"
 
   - image: "assets/images/portfolio/item-2.png"
     url: "#"
-    portfolio-type:
+    documents-type:
       - type: "branding"
 
   - image: "assets/images/portfolio/item-3.png"
     url: "#"
-    portfolio-type:
+    documents-type:
       - type: "illustration"
 
   - image: "assets/images/portfolio/item-6.png"
     url: "#"
-    portfolio-type:
+    documents-type:
       - type: "design"
       - type: "branding"
 
   - image: "assets/images/portfolio/item-8.png"
     url: "#"
-    portfolio-type:
+    documents-type:
       - type: "illustration"
 
   - image: "assets/images/portfolio/item-5.png"
     url: "#"
-    portfolio-type:
+    documents-type:
       - type: "design"
 
   - image: "assets/images/portfolio/item-1.png"
     url: "#"
-    portfolio-type:
+    documents-type:
       - type: "branding"
 
   - image: "assets/images/portfolio/item-3.png"
     url: "#"
-    portfolio-type:
+    documents-type:
       - type: "design"
       - type: "illustration"
       - type: "branding"
 
   - image: "assets/images/portfolio/item-7.png"
     url: "#"
-    portfolio-type:
+    documents-type:
+      - type: "illustration"
+
+# Services Page
+services-label:
+  - { title: "Đào Tạo", type: "design" }
+  - { title: "Cung Cấp Giải Pháp", type: "branding" }
+  - { title: "Tư Vấn Dự Án", type: "illustration" }
+
+services-items:
+  - image: "assets/images/portfolio/item-1.png"
+    url: "#"
+    services-type:
+      - type: "design"
+      - type: "illustration"
+
+  - image: "assets/images/portfolio/item-2.png"
+    url: "#"
+    services-type:
+      - type: "branding"
+
+  - image: "assets/images/portfolio/item-3.png"
+    url: "#"
+    services-type:
+      - type: "illustration"
+
+  - image: "assets/images/portfolio/item-6.png"
+    url: "#"
+    services-type:
+      - type: "design"
+      - type: "branding"
+
+  - image: "assets/images/portfolio/item-8.png"
+    url: "#"
+    services-type:
+      - type: "illustration"
+
+  - image: "assets/images/portfolio/item-5.png"
+    url: "#"
+    services-type:
+      - type: "design"
+
+  - image: "assets/images/portfolio/item-1.png"
+    url: "#"
+    services-type:
+      - type: "branding"
+
+  - image: "assets/images/portfolio/item-3.png"
+    url: "#"
+    services-type:
+      - type: "design"
+      - type: "illustration"
+      - type: "branding"
+
+  - image: "assets/images/portfolio/item-7.png"
+    url: "#"
+    services-type:
       - type: "illustration"
 
 #-------------------------------

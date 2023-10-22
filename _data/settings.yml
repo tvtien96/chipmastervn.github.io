@@ -200,7 +200,7 @@ documents-home-items:
 documents-label:
   - { title: "Tài liệu miễn phí", type: "design" }
   - { title: "Review Sách", type: "branding" }
-  - { title: "Đang nghĩ", type: "illustration" }
+  - { title: "Các Công Cụ Hay Dùng", type: "illustration" }
 
 documents-items:
   - image: "assets/images/portfolio/item-1.png"

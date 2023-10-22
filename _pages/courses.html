@@ -8,9 +8,11 @@ title: Khóa Học
   <div class="container">
     <div class="row">
       {% capture category_name %}{{ category | first }}{% endcapture %}
+      {% if category_name == "Course" %}
       {% for post in site.categories[category_name] %}
       {% include post.html %}
       {% endfor %}
+      {% endif %}
     </div>
   </div>
   {% endfor %}

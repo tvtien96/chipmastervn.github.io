@@ -53,7 +53,7 @@ select {
 
 a.text-dark{
   &:hover{
-    color: $primary-color !important;
+    color: $click-word-color !important;
   }
 }
 
@@ -128,8 +128,16 @@ a:hover {
   color: $text-color-dark !important;
 }
 
+.text-orange {
+  color: $click-word-color !important;
+}
+
 .text-light {
   color: $text-color-light !important;
+}
+
+.text-footer {
+  color: $text-color-footer !important;
 }
 
 .mb-10 {

@@ -55,7 +55,8 @@
 
 .btn-transparent {
   background: transparent;
-  color: $primary-color;
+  // color: $primary-color;
+  color: $secondary-color;
   font-weight: bold;
 
   &:active,

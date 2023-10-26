@@ -2,7 +2,8 @@
   padding: 40px 130px;
   transition: .3s ease;
   &.nav-bg {
-    background-color: $primary-color;
+    // background-color: $primary-color;
+    background-color: $gray;
     padding: 15px 100px;
     @include desktop {
       padding: 15px 20px;
@@ -20,9 +21,14 @@
       font-family: $secondary-font;
       text-transform: uppercase;
       padding: 15px;
+      font-weight: bold;
     }
     &.active{
       font-weight: bold;
+    }
+    &:hover {
+      // color: $primary-color;
+      color: $click-word-color;
     }
   }
 }

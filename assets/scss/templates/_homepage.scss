@@ -70,7 +70,8 @@
 
 .active-bg-primary {
   transition: .3s ease;
-  background: $primary-color;
+  // background: $primary-color;
+  background: linear-gradient(135deg, #0db1d1, #7434d5);
 
   * {
     color: $white;

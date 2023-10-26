@@ -107,7 +107,9 @@ a:hover {
 }
 
 .bg-primary {
-  background: $primary-color !important;
+  // background: $primary-color !important;
+  // background: linear-gradient(to right, #0db1d1, #7434d5) !important;
+  background: linear-gradient(to right, #e9ecf0, #d6dde5) !important;
 }
 
 .bg-gray{
@@ -188,6 +190,7 @@ a:hover {
 
 .font-tertiary {
   font-family: $secondary-font !important;
+  font-weight: bold;
 }
 
 .shadow {
@@ -225,7 +228,8 @@ a:hover {
     margin: 2px;
     &.slick-active{
       button{
-        background: $white;
+        // background: $white;
+        background: $click-word-color;
         width: 25px;
       }
     }
@@ -272,3 +276,12 @@ textarea.form-control{
   }
 }
 /* /card */
+
+/* title */
+.title-color-1{
+  color: #000 !important;
+}
+.title-color-2{
+  color: $click-word-color !important;
+}
+/* /title */

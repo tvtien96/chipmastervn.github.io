@@ -35,7 +35,7 @@
   background: $primary-color;
   // color: $white;
   color: $char-color;
-
+  
   &:active {
     background: lighten($color: $primary-color, $amount: 10) !important;
   }
@@ -49,6 +49,7 @@
   &.active {
     background: lighten($color: $primary-color, $amount: 10) !important;
     box-shadow: none !important;
+    color: $click-word-color !important;
   }
 }
 

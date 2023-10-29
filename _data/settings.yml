@@ -62,17 +62,17 @@ blurb-btn-name: Về Chúng Tôi
 
 # Work Process Section
 work-process:
-  - title: "Research and Plan"
+  - title: "Nghiên cứu và Đưa ra giải pháp"
     icon: "assets/images/icons/plan.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "Xác định rõ mục tiêu của dự án để giới hạn phạm vi kiến thức. Tìm và thu thập các tài liệu liên quan. Phân tích các thông tin đã thu thập được để đưa ra giải pháp phù hợp."
 
-  - title: "Design and Develop"
+  - title: "Thiết kế và Triển khai"
     icon: "assets/images/icons/design.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "Dựa trên các yêu cầu, thiết kế một kiến trúc tổng quan và triển khai thử nghiệm các giải pháp. Đánh giá, tinh chỉnh giải pháp để đạt được sự tối ưu. Theo dõi mức độ hiệu quả và thu thập phản hồi."
 
-  - title: "Deliver"
+  - title: "Cung cấp cho khách hàng"
     icon: "assets/images/icons/print.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "Cung cấp cho khách hàng khi giải pháp đã đạt được sự tối ưu. Đào tạo và hỗ trợ khách hàng sử dụng một cách hiệu quả."
 
 # My Team Section
 # team:
@@ -123,7 +123,7 @@ experience:
     }
   - {
       name: Lập trình FPGA,
-      icon: "icon-1.png",
+      icon: "icon-4.png",
       # date: "Sep 2014 - Present",
       # organization: "THEMEFISHER",
     }
@@ -162,20 +162,20 @@ services:
   - {
       name: Cung cấp giải pháp phần mềm,
       icon: ti-palette,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: ,# Add true to select section
+      description: "Đưa ra giải pháp phần mềm cho hệ thống IoT, AI trên edge device và firmware cho thiết bị nhúng. Chúng tôi thành thạo về Porting Linux, device driver và embedded microcontroler.",
+      active: , # Add true to select section
     }
   - {
       name: Đào tạo nhân lực,
       icon: ti-vector,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      description: "Đào tạo nhân lực theo các mảng RTL design, Verilog, C/C++, FPGA phù hợp cho lĩnh vực thiết kế vi mạch, IoT, AI. Đồng thời giúp các học viên rút ngắn thời gian làm quen với dự án thực tế.",
       active: true, # Add true to select section
     }
   - {
       name: Tư vấn dự án,
       icon: ti-panel,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: ,# Add true to select section
+      description: "Hướng dẫn sinh viên làm đồ án. Hỗ trợ lập trình viên giải quyết khó khăn trong các dự án của họ.",
+      active: , # Add true to select section
     }
 
 #-------------------------------

@@ -2,7 +2,7 @@
 layout: about
 title: Về Chúng Tôi
 author: ChipMaster Việt Nam
-image: assets/images/about/author.jpg
+image: assets/images/about/author.png
 signature: assets/images/about/signature.png
 ---
 

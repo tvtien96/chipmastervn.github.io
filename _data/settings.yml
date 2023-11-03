@@ -40,7 +40,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 
 hero:
   # hero-title: Xin chào!<br> Chúng tôi là <br> ChipMaster Việt Nam <br>
-  hero-title-1: Xin chào!<br> Chúng tôi là
+  hero-title-1: Xin chào&#128075;<br> Chúng tôi là
   hero-title-2: ChipMaster Việt Nam <br>
 
 social:

@@ -18,7 +18,7 @@ Khóa học của chúng tôi cũng cung cấp cho bạn cơ hội thực hành 
 
 Nếu bạn đam mê thiết kế vi mạch và muốn tham gia vào quá trình phát triển công nghệ tiên tiến, **ChipMaster Việt Nam** là sự lựa chọn lý tưởng. Hãy tham gia ngay để khám phá thế giới thú vị của thiết kế vi mạch và mở ra cơ hội mới trong sự phát triển cá nhân và sự nghiệp của bạn!
 
-> ## "Truyền cảm hứng, dẫn dắt tương lai: Kiến tạo tri thức về Kỹ thuật và Công nghệ Việt Nam"
+> ### *"Truyền cảm hứng, dẫn dắt tương lai: Kiến tạo tri thức về Kỹ thuật và Công nghệ Việt Nam"*
 
 ***
 Mọi thắc mắc và góp ý xin liên hệ với chúng tôi tại:

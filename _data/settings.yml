@@ -315,17 +315,17 @@ services-items:
 
 testimonial-items:
   - name: "Nguyễn Hoàng Dương"
-    image: "assets/images/testimonial/client-1.png"
+    image: "assets/images/testimonial/testimonials-1.png"
     designation: "Sinh viên"
     content: "ChipMaster Việt Nam cung cấp một nền tảng vững chắc về lập trình nhúng. Từ các khái niệm cơ bản như vi điều khiển, cảm biến, giao tiếp và điều khiển thiết bị, cho đến các kỹ thuật nâng cao như lập trình trực tiếp trên phần cứng và quản lý tài nguyên, tôi đã có cơ hội hiểu rõ về lập trình nhúng và ứng dụng nó vào các đồ án môn học."
 
-  - name: "Lâm Trịnh"
-    image: "assets/images/testimonial/client-1.png"
+  - name: "Đinh Văn Cường"
+    image: "assets/images/testimonial/testimonials-2.png"
     designation: "Người đi làm"
     content: "ChipMaster Việt Nam đã giới thiệu cho tôi các công cụ và phần mềm phổ biến để thiết kế, mô phỏng và kiểm thử vi mạch. Việc được thực hành và tiếp xúc với các dự án thực tế trên vi mạch đã giúp tôi áp dụng kiến thức lý thuyết vào thực tiễn và phát triển kỹ năng thiết kế cũng như kiểm thử vi mạch."
 
   - name: "Phan Thanh Hoàng"
-    image: "assets/images/testimonial/client-1.png"
+    image: "assets/images/testimonial/testimonials-3.png"
     designation: "Sinh viên năm 3"
     content: "Giảng viên và nhóm hỗ trợ của khóa học đã rất tận tâm và am hiểu về lĩnh vực này. Họ đã truyền đạt kiến thức một cách rõ ràng và tổ chức các hoạt động học tập một cách hợp lý. Tôi đã nhận được sự hỗ trợ và giúp đỡ khi gặp khó khăn trong quá trình học."
 

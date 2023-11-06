@@ -37,3 +37,10 @@
   // color: $white;
   color: $char-color;
 }
+
+.navbar-light .navbar-nav .nav-link{
+  color: $char-color;
+  &:hover {
+    color:$text-color-light;
+  }
+}

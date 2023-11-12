@@ -25,5 +25,3 @@ Mọi thắc mắc và góp ý xin liên hệ với chúng tôi tại:
 * Zalo: 0869902096
 * Email: chipmastervn@gmail.com
 * Fanpage: [ChipMaster Việt Nam](https://www.facebook.com/people/ChipMaster-Vi%E1%BB%87t-Nam/61552506868619/)
-* Youtube [ChipMaster Việt Nam](https://www.youtube.com/channel/UCOGnDzu9lCxjc55izu3rCxg)
-* Tiktok [ChipMaster Việt Nam](https://www.tiktok.com/@chipmastervn?is_from_webapp=1&sender_device=pc)

@@ -98,6 +98,48 @@
     adaptiveHeight: true,
   });
 
+  // courses-slider
+  $(".courses-slider").slick({
+    dots: true,
+    infinite: true,
+    speed: 300,
+    slidesToShow: 3,
+    arrows: false,
+    adaptiveHeight: true,
+    slidesToScroll: 1,
+    autoplay: true,
+    responsive: [
+      {
+        breakpoint: 1024,
+        settings: {
+          slidesToShow: 3,
+          slidesToScroll: 1,
+        },
+      },
+    ],
+  });
+
+  // documents-slider
+  $(".documents-slider").slick({
+    dots: true,
+    infinite: true,
+    speed: 300,
+    slidesToShow: 4,
+    arrows: false,
+    adaptiveHeight: true,
+    slidesToScroll: 1,
+    autoplay: true,
+    responsive: [
+      {
+        breakpoint: 1024,
+        settings: {
+          slidesToShow: 3,
+          slidesToScroll: 1,
+        },
+      },
+    ],
+  });
+
   // clients logo slider
   $(".client-logo-slider").slick({
     infinite: true,

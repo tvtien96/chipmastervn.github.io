@@ -2,7 +2,7 @@
 layout: post
 title:  Sự khác biệt giữa kiến trúc RISC-V và ARM
 date:   2023-11-07 00:51:55 +7
-image:  /assets/images/blog/post-web-1.png
+image:  /assets/images/blog/post-blog-1.png
 author: chipmastervn
 tags:   CPU-Architecture
 categories: Blogs

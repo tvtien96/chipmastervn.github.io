@@ -2,40 +2,22 @@
 layout: page
 title: Tài Liệu
 ---
-<!-- documents -->
+<!-- document -->
 <section class="section">
+  {% for category in site.categories %}
   <div class="container">
-    <div class="row mb-5">
-      <div class="col-12">
-        <div class="btn-group btn-group-toggle justify-content-center d-flex" data-toggle="buttons">
-          <label class="btn btn-sm btn-primary">
-            <input type="radio" name="shuffle-filter" value="all" checked="checked" />Tất cả
-          </label>
-          {% for label in site.data.settings.documents-label %}
-          <label class="btn btn-sm btn-primary">
-            <input type="radio" name="shuffle-filter" value="{{ label.type }}" />{{ label.title }}
-          </label>
-          {% endfor %}
-        </div>
-      </div>
-    </div>
-    <div class="row shuffle-wrapper">
-      {% for item in site.data.settings.documents-items %}
-      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[{% for documents in item.documents-type %}{% if forloop.first == true %}{% else %},{% endif %}&quot;{{ documents.type }}&quot;{% endfor %}]">
-        <div class="position-relative rounded hover-wrapper">
-          <img src="{{ site.baseurl }}/{{ item.image }}" alt="documents-image" class="img-fluid rounded w-100 d-block">
-          <div class="hover-overlay">
-            <div class="hover-content">
-              <a class="btn btn-light btn-sm btn-primary" href="{{ item.url }}">Xem thêm</a>
-            </div>
-          </div>
-        </div>
-      </div>
+    <div class="row">
+      {% capture category_name %}{{ category | first }}{% endcapture %}
+      {% if category_name == "Documents" %}
+      {% for post in site.categories[category_name] %}
+      {% include post.html %}
       {% endfor %}
+      {% endif %}
     </div>
   </div>
+  {% endfor %}
 </section>
-<!-- /documents -->
+<!-- /document -->
 
 <!-- clients -->
 <!-- <section class="section bg-light">

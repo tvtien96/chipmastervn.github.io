@@ -24,7 +24,7 @@
                 {% endfor %}
             </div>
             <div class="col-lg-11 mx-auto relevant-slider">
-                {% for category in site.category %}
+                {% for category in site.categories %}
                 {% capture category_name %}{{ category | first }}{% endcapture %}
                 {% if category_name == "Course" %}
                 {% for post in site.categories[category_name] offset:0 %}
@@ -33,7 +33,7 @@
                 {% endif %}
                 {% endfor %}
                 
-                {% for category in site.category %}
+                {% for category in site.categories %}
                 {% capture category_name %}{{ category | first }}{% endcapture %}
                 {% if category_name == "Documents" %}
                 {% for post in site.categories[category_name] offset:0 %}
